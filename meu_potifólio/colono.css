@@ -1,0 +1,101 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #1c232e;
+    border: solid white 2px;
+}
+
+nav {
+    width: 350px;
+    height: 99vh;
+    background-color: #03484c;
+}
+
+img{
+    width: 50%;
+    height: 170px;
+    border-radius: 50%;
+    border: solid #1c232e 10px;
+    margin-top: 300px;
+    margin-left: 72px;
+}
+pre{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 58%;
+    left: 2.4%;
+    text-decoration: none;
+    
+}
+
+pre a{
+    color: #1c232e;
+    text-decoration: none;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+
+}
+a{
+    font-family: fantasy;
+    font-size: 25px;
+    letter-spacing: 2px;
+}
+
+h1{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 17%;
+    left: 49%;
+    font-family: "Luckiest Guy";
+    color: aliceblue;
+    letter-spacing: 3px;
+    font-size: 50px;
+}
+
+section{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 47%;
+    left: 50%;
+}
+section .container-habilidade h1{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 20%;
+    left: 7%;
+}
+
+.container-habilidade p{
+    margin-top: 15%;
+    margin-left: -18%;
+    color: aliceblue;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.meu-lindo{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 70%;
+    left: 45%;
+}
+
+.meu-lindo h1{
+    margin-top: 1%;
+    margin-left: -28%;
+}
+.meu-lindo p{
+    margin-top: 15%;
+    margin-left: 3%;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
